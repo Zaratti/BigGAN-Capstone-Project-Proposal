@@ -4,18 +4,18 @@
 
 - Arthur Uzoma ⭐
 - Somi Fredrick 🌟
+- Bharat Kumar Jhawar 
+- Adeniyi Olaolu
 - Abosede Omishade
 - Nina Garmash
-- Nishant Katiyar
-- Bharat Kumar Jhawar
-- Adeniyi Olaolu
-- Arnab Das
-- Sayantani Jana
-- Emmanuel Alafaa
 - Tolulope Oke
 - Ademo Vitalis
+- Nishant Katiyar
+- Arnab Das
+- Sayantani Jana
 - Abiodun Onifade
 - Oluchukwu Okorie
+- Emmanuel Alafaa
 
 ##### 1. Introduction
 Access to electricity is crucial for economic growth and social development. Yet in Sub-Saharan Africa (SSA), around 600 million people still need access to it, hindering the achievement of Sustainable Development Goal (SDG) 7, which targets universal access to modern energy by 2030.
